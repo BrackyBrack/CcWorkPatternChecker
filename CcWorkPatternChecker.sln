@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CcWorkPatternChecker", "CcWorkPatternChecker\CcWorkPatternChecker.csproj", "{A585995A-9F69-4621-8CE3-05598CBE041D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{798C8871-095E-4064-8F56-36FD0F70EF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A585995A-9F69-4621-8CE3-05598CBE041D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A585995A-9F69-4621-8CE3-05598CBE041D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A585995A-9F69-4621-8CE3-05598CBE041D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A585995A-9F69-4621-8CE3-05598CBE041D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798C8871-095E-4064-8F56-36FD0F70EF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798C8871-095E-4064-8F56-36FD0F70EF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798C8871-095E-4064-8F56-36FD0F70EF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798C8871-095E-4064-8F56-36FD0F70EF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CE838D-F558-46E4-BC08-77DB2EBB678F}
+	EndGlobalSection
+EndGlobal
